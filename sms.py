@@ -3472,7 +3472,7 @@ def run(sdt,i):
   print("Attack SMS Success | GotoSub.Site | Delay : 1 | Status : Thành Công ",)  
   for j in range(0, 1):
     # code trong vòng lặp
-    print(f" Bo May La Hacked Trung Hieu                                                                                                                                                ..                                                                                                                           .                              
+    print(" Bo May La Hacked Trung Hieu                                                                                                                                                ..                                                                                                                           .                              
                                                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                                                                                                             
                                                                                                                                              ...         .     ..                                                                                                                                           
